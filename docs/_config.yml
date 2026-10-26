@@ -1,0 +1,6 @@
+# GitHub Pages（Jekyll）の設定。
+# docs/ の中身をそのまま公開ページにする
+title: Campus Hub
+description: 三重大学の学生向け・授業情報と授業管理のアプリ
+lang: ja
+theme: jekyll-theme-primer
